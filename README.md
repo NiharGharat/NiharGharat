@@ -1,4 +1,4 @@
-### Hi there 👋, Nihar here(u know that ;))
+### Hi 👋, Nihar here
 
 <!--
 **NiharGharat/NiharGharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently(circa 2022 Jan) a Masters CS student at UT Arlington.
-- Ex-LTI Senior Product Engineer
-- Want to develop products and work on awesome projects
+- Pursuing Masters CS student at UT Arlington(enrolled in Spring 2022, expected graduation in Dec 2023).
+- Ex-LTI Senior Product Engineer(3.5 years work experience)
+- LTI experience tech stack experience - Java, Spark, Ubuntu as OS of choice.
+- Passionate about product development, and building stuff from scratch.
 
-- 🔭 I’m currently working on - Review Analyser
+- 🔭 I’m currently working on - Youtube Playlist Puller - A Java project for pulling playlist data from youtube.
 - Also, currently building my github profile
-
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: nihar.gharat@gmail.com
+- 😄 Pronouns: He/Him
 - Languages experience - Java, Python, C
-- OS of choice - Ubuntu(Linux)
-- Reach me: nihar.gharat@gmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NiharGharat&show_icons=true&locale=en" alt="jxck-s" /></p>

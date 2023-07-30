@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 - Languages experience - Java, Python, C
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NiharGharat&show_icons=true&locale=en" alt="jxck-s" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NiharGharat)](https://git.io/streak-stats)

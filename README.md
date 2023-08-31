@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p>
+  ![](https://komarev.com/ghpvc/?username=NiharGharat)
+</p>
 - Pursuing Masters CS student at UT Arlington(enrolled in Spring 2022, expected graduation in Dec 2023).
 - Ex-LTI Senior Product Engineer(3.5 years work experience)
 - LTI experience tech stack experience - Java, Spark, Ubuntu as OS of choice.
